@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Manshor-Portfolio/static/css/main.34fb92ba.css",
-    "main.js": "/Manshor-Portfolio/static/js/main.3f312271.js",
+    "main.js": "/Manshor-Portfolio/static/js/main.008e09f4.js",
     "static/media/slick.svg": "/Manshor-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Manshor-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Manshor-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Manshor-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Manshor-Portfolio/index.html",
     "main.34fb92ba.css.map": "/Manshor-Portfolio/static/css/main.34fb92ba.css.map",
-    "main.3f312271.js.map": "/Manshor-Portfolio/static/js/main.3f312271.js.map"
+    "main.008e09f4.js.map": "/Manshor-Portfolio/static/js/main.008e09f4.js.map"
   },
   "entrypoints": [
     "static/css/main.34fb92ba.css",
-    "static/js/main.3f312271.js"
+    "static/js/main.008e09f4.js"
   ]
 }
